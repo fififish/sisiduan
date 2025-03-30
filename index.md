@@ -170,4 +170,5 @@ I have been fortunate to work with some great students.
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Information Forensics and Security
+- IEEE Transactions on Computers
 
