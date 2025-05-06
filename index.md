@@ -152,7 +152,7 @@ I have been fortunate to work with some great students.
 
 #### Conference PC
 - 2026: NDSS, DSN
-- 2025: NDSS, CCS (track chcair), S&P, DSN, FC, ICDCS
+- 2025: NDSS, CCS (track chair), S&P, DSN, FC, ICDCS
 - 2024: NDSS, S&P, CCS, ICDCS, FC, DSN (Disrupt track), IJTCS-FAW
 - 2023: DSN, ICDCS, CCS, SecureComm, OPODIS, CCSW
 - 2022: DSN, NCA, CCSW
