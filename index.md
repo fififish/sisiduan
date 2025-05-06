@@ -81,6 +81,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal 
+- [j15] Chao Liu<sup>*</sup>, Sisi Duan, and Haibin Zhang. MiB: Asynchronous BFT with More Replicas. IEEE Transactions on Dependable and Secure Computing, 2025. (The paper was submitted in 2021) [<a href="https://arxiv.org/pdf/2108.04488">arxiv</a>]
 - [j14] Haochen Wang<sup>*</sup>, Qidi You, and Sisi Duan. Synchronous Byzantine Agreement with O(n) Messages and O(1) Expected Time. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online). [<a href="https://ieeexplore.ieee.org/document/10792976">DOI</a>] 
 - [j13] Yue Huang<sup>*</sup>, Huizhong Li, Yi Sun, and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online). [<a href="https://ieeexplore.ieee.org/document/10795219">DOI</a>] [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
 - [j12] Rujia Li<sup>*</sup>, Yuanzhao Li, Qin Wang, Sisi Duan, Qi Wang, and Mark Ryan. Accountable Decryption made Formal and Practical. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online).  [<a href="[https://eprint.iacr.org/2023/1519]https://ieeexplore.ieee.org/document/10798458">DOI</a>] [<a href="https://eprint.iacr.org/2023/1519">eprint</a>]
@@ -97,6 +98,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing (TDSC) , 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
 ### Manuscripts
+- Xin Wang<sup>*</sup>, Xiao Sui, and Sisi Duan. Otter: Scalable Sharding-Based Atomic Broadcast with Abortable Fork Detection. [<a href="https://eprint.iacr.org/2025/740">eprint</a>]
 - Xin Wang<sup>*</sup>, Haochen Wang<sup>*</sup>, Haibin Zhang, and Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. [<a href="https://eprint.iacr.org/2024/664">eprint</a>]
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
 - Rujia Li<sup>*</sup>, Xuanwei Hu, Qin Wang, Sisi Duan, and Qi Wang. Transaction Fairness in Blockchains, Revisited. [<a href="https://eprint.iacr.org/2023/1034">eprint</a>]
@@ -148,6 +150,7 @@ I have been fortunate to work with some great students.
 - 2018: IDCS (co-chair), UIC (co-chair)
 
 #### Conference PC
+- 2026: NDSS, DSN
 - 2025: NDSS, CCS (track chcair), S&P, DSN, FC, ICDCS
 - 2024: NDSS, S&P, CCS, ICDCS, FC, DSN (Disrupt track), IJTCS-FAW
 - 2023: DSN, ICDCS, CCS, SecureComm, OPODIS, CCSW
