@@ -1,4 +1,4 @@
-## Sisi Duan, 段斯斯
+![image](https://github.com/user-attachments/assets/4f1e6bc8-48d5-4264-9c3b-cd89b3ac7875)## Sisi Duan, 段斯斯
 
 <div class="row">
   <div class="col-md-4">
@@ -81,6 +81,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal 
+- [j17] Zhaoyang Xie<sup>*</sup>, Haibin Zhang, Sisi Duan, Chao Liu, Shengli Liu, Xuanji Meng, Yong YU, Fangguo Zhang, Boxin Zhao, Liehuang Zhu, and Tianqing Zhu. Everything Distributed and Asynchronous: A Practical System for Key Management Service. TPDS 2025. 
 - [j16] Xiao Sui<sup>*</sup>, Qichang Liu, Haibin Zhang, and Sisi Duan. Pike: Two-Phase BFT with Linearity and Flexible View Change. IEEE Transactions on Computers, 2025. (The paper is an extension of Marlin [c21]). 
 - [j15] Chao Liu<sup>*</sup>, Sisi Duan, and Haibin Zhang. MiB: Asynchronous BFT with More Replicas. IEEE Transactions on Dependable and Secure Computing, 2025. (The paper was first submitted in 2021) [<a href="https://www.computer.org/csdl/journal/tq/5555/01/10994276/26y4xDzdVNm">DOI</a>][<a href="https://arxiv.org/pdf/2108.04488">arxiv</a>]
 - [j14] Haochen Wang<sup>*</sup>, Qidi You, and Sisi Duan. Synchronous Byzantine Agreement with O(n) Messages and O(1) Expected Time. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online). [<a href="https://ieeexplore.ieee.org/document/10792976">DOI</a>] 
