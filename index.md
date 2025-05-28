@@ -132,7 +132,8 @@ I have been fortunate to work with some great students.
 - Jingyuan Ding (Fall 204 - now)
 
 #### Undergraduate Students
-- Qichang Liu
+- Qichang Liu (2023-2025)
+- Ruoshi Zhang (summer 2025)
   
 #### Visitors
 - Chenxu Wang (Apr-Sep 2023, May-Oct 2024)
