@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f1e6bc8-48d5-4264-9c3b-cd89b3ac7875)## Sisi Duan, 段斯斯
+## Sisi Duan, 段斯斯
 
 <div class="row">
   <div class="col-md-4">
