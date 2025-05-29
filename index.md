@@ -36,7 +36,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 
 ### Conference Full Papers
 - [c39] Xin Wang<sup>*</sup>, Shuhe Cao<sup>*</sup>, Keting Jia, Qidi You, and Sisi Duan. Lumi: Lightweight Blockchain Layer 2 Protocol from On-chain Coordination. ICDCS 2025. [DOI]
-- [c38] Xiao Sui<sup>*</sup>, Xin Wang<sup>*</sup>, and Sisi Duan. Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time. S&P 2025. [DOI] [<a href="https://eprint.iacr.org/2023/1549">eprint</a>]
+- [c38] Xiao Sui<sup>*</sup>, Xin Wang<sup>*</sup>, and Sisi Duan. Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time. S&P 2025. [<a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600b547/26EkFF9L4Qw">DOI</a>] [<a href="https://eprint.iacr.org/2023/1549">eprint</a>]
 - [c37] Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, Xueqian Lu, and Sisi Duan. Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake. Usenix Security 2025. [DOI][<a href="https://eprint.iacr.org/2025/097">eprint</a>]
 - [c36] Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts. AAAI 2025. [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
 - [c35] Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, and Haochen Wang<sup>*</sup>. Towards Optimal Parallel Broadcast under a Dishonest Majority. FC 2025. [<a href="https://eprint.iacr.org/2024/974">eprint</a>]
