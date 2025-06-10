@@ -117,16 +117,17 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 I have been fortunate to work with some great students.
 
 #### Postdoc
+- Kailun Yan (Jul 2025 - now)
 - <a href="http://rujia.uk/">Rujia Li</a> (Shuimu Scholar, Jan 2023 - now)
 - <a href="https://www.linkedin.com/in/xin-wang-440094196/">Xin Wang</a> (Shuimu Scholar, Nov 2022 - now)
 - Zhaoxin Yang (Oct 2023 - now)
 
 #### PhD
+- Zhaoyang Xie (Fall 2025 - now)
 - Xinyu Lei (Fall 2024 - now)
 - Mingfei Zhang (Fall 2022 - now)
 - Yue Huang (Fall 2022 - now)
 - Xuanji Meng (Fall 2021 - now)
-- Haochen Wang (Fall 2020 - now)
 
 #### Master
 - Shuhe Cao (Fall 2024 - now)
@@ -146,7 +147,8 @@ I have been fortunate to work with some great students.
 - Xiao Sui (PhD, graduated in 2024, current position: Postdoc/Shuimu scholar at Tsinghua, University)
 - Yunqing Bian (Master, graduated in 2024)
 - Jim Clavin (PhD, UMBC, graduated in 2024, co-advised with Prof. Karuna Joshi, current job: CTO of Hilltop Institute, MD, USA)
-    
+- Haochen Wang (PhD, graduated in 2025, current job: Postdoc at the Hong Kong University of Science and Technology)
+-     
 ## Professional Service
 
 #### Conference Co-Chair and Session Chair
