@@ -125,7 +125,7 @@ I have been fortunate to work with some great students.
 #### PhD
 - Zhaoyang Xie (Fall 2025 - now)
 - Xinyu Lei (Fall 2024 - now)
-- Mingfei Zhang (Fall 2022 - now)
+- <a href="https://mart1i1n.github.io/mingfei/">Mingfei Zhang</a> (Fall 2022 - now)
 - Yue Huang (Fall 2022 - now)
 - Xuanji Meng (Fall 2021 - now)
 
