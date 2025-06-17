@@ -134,8 +134,9 @@ I have been fortunate to work with some great students.
 - Jingyuan Ding (Fall 204 - now)
 
 #### Undergraduate Students
-- Qichang Liu (2023-2025)
+- Qichang Liu (2023-2025, Outstanding undergraduate thesis award)
 - Ruoshi Zhang (summer 2025)
+- Xuexin Ji (summer 2025)
   
 #### Visitors
 - Chenxu Wang (Apr-Sep 2023, May-Oct 2024)
