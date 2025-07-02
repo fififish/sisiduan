@@ -36,6 +36,8 @@ I'm always looking for postdocs, PhD students, and research interns. Send me an 
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c42] Jingfan Yu, Sisi Duan, Zhixuan Fang. Efficient Fair Ordering Protocol with 2-hop Receiver Fairness. SRDS 2025. 
+- [c41] Xufeng Zhang, Baohan Huang, Sisi Duan, and Haibin Zhang. Randomized vs. Deterministic? Practical Randomized Synchronous BFT in Expected Constant Time. SRDS 2025. 
 - [c40] Rujia Li<sup>*</sup>, Jingyuan Ding<sup>*</sup>, Qin Wang, Keting Jia, Haibin Zhang, and Sisi Duan. Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus. Usenix Security 2025. [DOI]
 - [c39] Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, Xueqian Lu, and Sisi Duan. Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake. Usenix Security 2025. [DOI][<a href="https://eprint.iacr.org/2025/097">eprint</a>] 
 - [c38] Xin Wang<sup>*</sup>, Shuhe Cao<sup>*</sup>, Keting Jia, Qidi You, and Sisi Duan. Lumi: Lightweight Blockchain Layer 2 Protocol from On-chain Coordination. ICDCS 2025. [DOI]
@@ -77,12 +79,15 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [c2] Sisi Duan, Karl Levitt, Hein Meling, Sean Peisert, and Haibin Zhang. ByzID: Byzantine Fault Tolerance from Intrusion Detection.  SRDS 2014: 253-264. [<a href="files/byzid_SRDS_final.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6983400/?arnumber=6983400">DOI</a>]  <font color="#26A0F4  "> Best Paper Candidate Award. </font>
 - [c1] Tiancheng Chang, Sisi Duan, Hein Meling, Sean Peisert, and Haibin Zhang. P2S: A Fault-Tolerant Publish/Subscribe Infrastructure. DEBS 2014: 189-197. [<a href="files/p2s-2014.pdf">PDF</a>][<a href="http://dl.acm.org/citation.cfm?doid=2611286.2611305">DOI</a>]
            
-### Conference Short Papers
+### Short Papers, Papers Written in Chinese, etc.
+- [s5] Youheng Wangn<sup>*</sup>, Kaikai Fengn<sup>*</sup>, Rujia Lin<sup>*</sup>, Sisi Duan, Qingjie Chen. [Written in Chinese] A Survey on Privacy-Preserving Techniques for Blockchain Smart Contracts. Chinese Journal of Computers, 2025.
+- [s4] Zhaoxin Yang<sup>*</sup>, Xiao Sui<sup>*</sup>, Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, Sisi Duan. [Vision Paper] Do We Need Standardization of Blockchain Consensus? SSR 2024. [<a href="https://dl.acm.org/doi/10.1007/978-3-031-87541-0_3">DOI</a>]
 - [s3] Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang, and Haibin Zhang. Brief Announcement: Asynchronous Verifiable Information Dispersal with Near-Optimal Communication. PODC 2022. [<a href="https://dl.acm.org/doi/10.1145/3519270.3538476">DOI</a>][<a href="https://eprint.iacr.org/2022/775">eprint</a>]
 - [s2] James R. Clavin<sup>*</sup>, Pradeep M. Prakash, and Sisi Duan. ByzGame: Byzantine Generals Game. DEBS 2020.  [<a href="files/ByzGame_DEBS20.pdf">PDF</a>][<a href="https://dl.acm.org/doi/10.1145/3401025.3401739">DOI</a>][<a href="https://www.byzgame.com/">Access ByzGame</a>]
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal 
+- [j18] Jiahui Huang, Teng Huang, Changyu Dong, Sisi Duan, and Yan Pang. Hierarchical Network with Local-Global Awareness for Ethereum Account De-anonymization. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025 (online). [<a href="https://ieeexplore.ieee.org/document/11037616">DOI</a>]
 - [j17] Zhaoyang Xie<sup>*</sup>, Haibin Zhang, Sisi Duan, Chao Liu, Shengli Liu, Xuanji Meng, Yong YU, Fangguo Zhang, Boxin Zhao, Liehuang Zhu, and Tianqing Zhu. Everything Distributed and Asynchronous: A Practical System for Key Management Service. TPDS 2025. (The paper is an extension of [c26])
 - [j16] Xiao Sui<sup>*</sup>, Qichang Liu, Haibin Zhang, and Sisi Duan. Pike: Two-Phase BFT with Linearity and Flexible View Change. IEEE Transactions on Computers, 2025. [<a href="https://www.computer.org/csdl/journal/tc/5555/01/11015482/272ihkNDYuQ">DOI</a>] (The paper is an extension of Marlin [c21]). 
 - [j15] Chao Liu<sup>*</sup>, Sisi Duan, and Haibin Zhang. MiB: Asynchronous BFT with More Replicas. IEEE Transactions on Dependable and Secure Computing, 2025. (The paper was first submitted in 2021) [<a href="https://www.computer.org/csdl/journal/tq/5555/01/10994276/26y4xDzdVNm">DOI</a>][<a href="https://arxiv.org/pdf/2108.04488">arxiv</a>]
