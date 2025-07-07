@@ -36,6 +36,7 @@ I'm always looking for postdocs, PhD students, and research interns. Send me an 
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c43] Wenxuan Xu, Minghui Xu, Bing Wu, Sisi Duan, and Xiuzhen Cheng. AD-MPC: Asynchronous Dynamic MPC with Guaranteed Output Delivery. CCS 2025. [<a href="https://eprint.iacr.org/2024/1653">eprint</a>]
 - [c42] Jingfan Yu, Sisi Duan, Zhixuan Fang. Efficient Fair Ordering Protocol with 2-hop Receiver Fairness. SRDS 2025. 
 - [c41] Xufeng Zhang, Baohan Huang, Sisi Duan, and Haibin Zhang. Randomized vs. Deterministic? Practical Randomized Synchronous BFT in Expected Constant Time. SRDS 2025. 
 - [c40] Rujia Li<sup>*</sup>, Jingyuan Ding<sup>*</sup>, Qin Wang, Keting Jia, Haibin Zhang, and Sisi Duan. Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus. Usenix Security 2025. [DOI]
