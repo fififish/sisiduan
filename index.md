@@ -38,7 +38,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 ### Conference Full Papers
 - [c43] Wenxuan Xu, Minghui Xu, Bing Wu, Sisi Duan, and Xiuzhen Cheng. AD-MPC: Asynchronous Dynamic MPC with Guaranteed Output Delivery. CCS 2025. [<a href="https://eprint.iacr.org/2024/1653">eprint</a>]
 - [c42] Jingfan Yu, Sisi Duan, Zhixuan Fang. Efficient Fair Ordering Protocol with 2-hop Receiver Fairness. SRDS 2025. 
-- [c41] Xufeng Zhang, Baohan Huang, Sisi Duan, and Haibin Zhang. Randomized vs. Deterministic? Practical Randomized Synchronous BFT in Expected Constant Time. SRDS 2025. 
+- [c41] Xufeng Zhang, Baohan Huang, Sisi Duan, and Haibin Zhang. Randomized vs. Deterministic? Practical Randomized Synchronous BFT in Expected Constant Time. SRDS 2025. [<a href="https://eprint.iacr.org/2025/816">eprint</a>] 
 - [c40] Rujia Li<sup>*</sup>, Jingyuan Ding<sup>*</sup>, Qin Wang, Keting Jia, Haibin Zhang, and Sisi Duan. Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus. Usenix Security 2025. [DOI][<a href="https://zenodo.org/records/15552871">code</a>]
 - [c39] Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, Xueqian Lu, and Sisi Duan. Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake. Usenix Security 2025. [DOI][<a href="https://eprint.iacr.org/2025/097">eprint</a>] 
 - [c38] Xin Wang<sup>*</sup>, Shuhe Cao<sup>*</sup>, Keting Jia, Qidi You, and Sisi Duan. Lumi: Lightweight Blockchain Layer 2 Protocol from On-chain Coordination. ICDCS 2025. [DOI]
@@ -88,6 +88,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal 
+- [j19] Nicolas Alhaddad, Sisi Duan, Mayank Varia, Haochen Wang, and Haibin Zhang. Efficient Byzantine Broadcast from Succinct Erasure Coding Proof System. IEEE Transactions on Information Forensics and Security (TIFS) 2025. [DOI] This paper is an extension of the ECP work, which can be found <a href="https://eprint.iacr.org/2021/1500">here</a>.
 - [j18] Jiahui Huang, Teng Huang, Changyu Dong, Sisi Duan, and Yan Pang. Hierarchical Network with Local-Global Awareness for Ethereum Account De-anonymization. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025 (online). [<a href="https://ieeexplore.ieee.org/document/11037616">DOI</a>]
 - [j17] Zhaoyang Xie<sup>*</sup>, Haibin Zhang, Sisi Duan, Chao Liu, Shengli Liu, Xuanji Meng, Yong YU, Fangguo Zhang, Boxin Zhao, Liehuang Zhu, and Tianqing Zhu. Everything Distributed and Asynchronous: A Practical System for Key Management Service. TPDS 2025. [<a href="https://www.computer.org/csdl/journal/td/5555/01/11027576/27kcNTD2Z9u">DOI</a>] (The paper is an extension of [c26])
 - [j16] Xiao Sui<sup>*</sup>, Qichang Liu, Haibin Zhang, and Sisi Duan. Pike: Two-Phase BFT with Linearity and Flexible View Change. IEEE Transactions on Computers, 2025. [<a href="https://www.computer.org/csdl/journal/tc/5555/01/11015482/272ihkNDYuQ">DOI</a>] (The paper is an extension of Marlin [c21]). 
@@ -108,13 +109,11 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing (TDSC) , 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
 ### Manuscripts
-- Xufeng Zhang, Baohan Huang, Sisi Duan, and Haibin Zhang. Randomized vs. Deterministic? Practical Randomized Synchronous BFT in Expected Constant Time. [<a href="https://eprint.iacr.org/2025/816">eprint</a>] 
 - Xin Wang<sup>*</sup>, Xiao Sui, and Sisi Duan. Otter: Scalable Sharding-Based Atomic Broadcast with Abortable Fork Detection. [<a href="https://eprint.iacr.org/2025/740">eprint</a>]
 - Xin Wang<sup>*</sup>, Haochen Wang<sup>*</sup>, Haibin Zhang, and Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. [<a href="https://eprint.iacr.org/2024/664">eprint</a>]
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
 - Rujia Li<sup>*</sup>, Xuanwei Hu, Qin Wang, Sisi Duan, and Qi Wang. Transaction Fairness in Blockchains, Revisited. [<a href="https://eprint.iacr.org/2023/1034">eprint</a>]
 - You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, and Jianwei Liu. Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. [<a href="https://eprint.iacr.org/2022/1709">eprint</a>]
-- Nicolas Alhaddad, Sisi Duan, Mayank Varia, and Haibin Zhang. Succinct Erasure Coding Proof Systems. [<a href="https://eprint.iacr.org/2021/1500">eprint</a>]
 
 ### Doctoral Dissertation
 - Sisi Duan. Building Reliable and Practical Byzantine Fault Tolerance. Ph.D. Dissertation, Computer Science, University of California, Davis, Dec 2014.  Committee members: Prof. Karl Levitt (chair), Prof. Sean Peisert, and Prof. Matt Bishop. [<a href="files/2014-SisiDuan-dissertation.pdf">PDF</a>]
